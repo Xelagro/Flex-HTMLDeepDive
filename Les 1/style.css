@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(63, 10, 150);
+    padding: 0;
+    margin: 100px;
+}
+
+li {
+    color: white;
+    background-color: green;
+}
+
+h1 {
+    color: rgb(9, 255, 0);
+    background-color: rgb(150, 97, 0);
+}
+
+section{
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    position: absolute;
+    left: 950px;
+}
